@@ -5,7 +5,7 @@ First Repo
 datafun-01-utils · Reusable Tagline Module
 A small, professional Python module that builds and prints a reusable project tagline/header for analytics projects. It’s cleanly typed, includes a CLI, runs a self-check, and can optionally read the tagline aloud.
 
-Main module: utils_sandra_otubushin.py
+Main module: utils_mrutu.py
 
 Why this exists
 Provide a consistent, informative header across projects.
